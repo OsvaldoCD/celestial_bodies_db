@@ -2,7 +2,7 @@
 
 ## the requirements below are specified in order to complete the relational database certification
 
-## the "Table Attributes Tasks Checklist" provide the task completed in order to meet the database requirements
+## the "Table Attributes Tasks Checklist" provides the task completed in order to meet the database requirements
 
 ### The database was created using BASH Scripting - Linux Shell
 
